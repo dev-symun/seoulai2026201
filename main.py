@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # 메인 타이틀
-st.title("📊 데이터 분석 프로젝트 메인 홈")
+st.title("📊 문서연의 메인 홈")
 st.subheader("웹사이트에 오신 것을 환영합니다!")
 
 st.markdown("---")
